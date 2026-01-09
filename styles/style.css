@@ -30,6 +30,7 @@
     color: #333;
     font-weight: 500;
 }
+
 .hero {
     height: 840px;
     background:url('../images/hero-bg.png');
@@ -96,6 +97,7 @@
     margin-left: 20px;
     cursor: pointer;
 }
+
 .features {
     padding: 100px 120px;
     text-align: center;
@@ -215,7 +217,39 @@
     margin-top: 40px;
  }
 .solution-text li { 
-    margin-bottom:15px ; 
+    margin-bottom:16px ; 
     padding-left: 60px; 
   
-    
+}
+
+    .cta { padding: 120px;
+    height: 384;
+    width: 1360;
+   background-color:#ffffff;
+     text-align: center;
+ }
+.cta-box { 
+    background: #F7F6F2;
+    padding-top: 20px;
+      padding-bottom: 24px;
+     
+ }
+.cta h2 { 
+    font-size: 40px;
+     padding-bottom: 20px;
+     padding-top:80px;
+     font-weight: bold;
+     color: #001931;
+ }
+ .cta-para{
+    padding-bottom: 16px;
+    color:#627382
+ }
+   
+.cta-note { 
+    font-size: 16px;
+     color: #627382; 
+     padding: 80px;
+     padding-top: 16px;
+ }
+
