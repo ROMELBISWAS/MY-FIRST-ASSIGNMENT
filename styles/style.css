@@ -96,3 +96,126 @@
     margin-left: 20px;
     cursor: pointer;
 }
+.features {
+    padding: 100px 120px;
+    text-align: center;
+}
+
+.section-header {
+    margin-bottom: 60px;
+}
+
+.section-header h2 {
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.feature-grid {
+    display: flex;
+    gap: 40px;
+}
+
+.feature-card {
+    flex: 1;
+    padding: 40px 30px;
+    border: 1px solid #E5E7EB;
+    border-radius: 12px;
+}
+
+.section-header h2 {
+    font-size: 32px;
+    color: #001a33;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.features-container {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+.section-header p {
+    color: #666;
+    margin-bottom: 50px;
+}
+.features {
+    padding: 100px 120px;
+    text-align: center;
+}
+
+.section-header {
+    margin-bottom: 60px;
+}
+
+.section-header h2 {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 16px;
+}
+.section-header p{
+    color: #627382;
+}
+.feature-grid {
+    display: flex;
+    gap: 40px;
+}
+
+.feature-card {
+    flex: 1;
+    padding: 40px 30px;
+    border: 1px solid #E5E7EB;
+    border-radius: 12px;
+}
+.feature-card h3{
+    color:001931;
+    font-size:24px;
+    font-weight: 600;
+}
+.feature-card p{
+    color: #627382;
+}
+.icon-box {
+    margin-bottom: 20px;
+    background-color: #F95555;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto 15px;
+}
+.solution { 
+    padding: 102px 120px;
+ }
+.solution-grid { 
+    display: flex;
+     align-items: center; 
+     gap: 80px;
+ }
+ .solution-text .sub-title{
+    color:#30B686;
+    font-size: 16px;
+    padding-left: 60px;
+ }
+.solution-text h2 { 
+    font-size: 48px;
+    font-weight: bold;
+     margin: 15px 0;
+     padding-left: 60px;
+
+ }
+ .solution-text p{
+    font-size: 16px;
+    color:#627382;
+    padding-left: 60px;
+ }
+.solution-text ul { 
+    list-style: none; 
+    margin-top: 40px;
+ }
+.solution-text li { 
+    margin-bottom:15px ; 
+    padding-left: 60px; 
+  
+    
